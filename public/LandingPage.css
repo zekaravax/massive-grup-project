@@ -58,7 +58,7 @@ nav-link link-light:hover::after {
 /* About */
 #about {
 	margin-top: 4rem;
-	height: 70vh;
+	height: 100vh;
 	padding: 2% 10% 10%;
 }
 
